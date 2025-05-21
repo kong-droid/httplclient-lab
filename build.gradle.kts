@@ -26,6 +26,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	// rest template
 	implementation("org.springframework.boot:spring-boot-starter-web")
+	implementation("org.apache.httpcomponents.client5:httpclient5")
 	// webclient
 	implementation("org.springframework.boot:spring-boot-starter-webflux")
 	implementation("io.projectreactor.netty:reactor-netty:1.2.3")
