@@ -16,6 +16,7 @@
 - reactor-netty
 - commons-lang3
 - gson
+- httpclient5
 ```
 #### 2. 주요 라이브러리 비교
 |           | restTemplate                                                    | webclient                                                               |
